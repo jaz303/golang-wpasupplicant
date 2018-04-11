@@ -6,9 +6,6 @@
 
 Golang interface for talking to wpa_supplicant.
 
-At the moment, this simply provides an interface for fetching wifi scan
-results.  More functionality (probably) coming soon.
-
 ## Example
 
 ```
